@@ -34,7 +34,7 @@ h1, h2, h3 {
 .wrapper {
   text-align: center;
   text-decoration-color: beige;
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
   background: rgba(255, 255, 255, .4);
   min-height: 150px;
@@ -43,7 +43,6 @@ h1, h2, h3 {
   background-position: -200px;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 200px;
   rotate: 180deg;
 
 }
