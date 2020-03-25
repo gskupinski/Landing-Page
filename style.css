@@ -10,7 +10,7 @@ html, body {
 }
 img {
   background: url(Images/DSC_0218.JPG);
-background-repeat: no-repeat;
+  background-repeat: no-repeat;
 background-size: cover;
 background-position: 200px;
 min-height: 200vh;
@@ -83,7 +83,6 @@ main {
   .walkway {
     display: grid;
     grid-template-columns: 1fr,1fr, 1fr, 1fr;
-    width: 250px;
 }
 
 }
