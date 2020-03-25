@@ -29,21 +29,21 @@ h1, h2, h3 {
   font-family: "Bebas Neue", serif;
 }
 img {
-  width: 100%;
-  height: auto;
-  /* max-width: 300px;
-  display: block; */
+background: url(Images/DSC_0218.JPG);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 200px;
+min-height: 200vh;
 }
 .wrapper {
   text-align: center;
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
-   background: url(Images/DSC_0218.JPG);
+   background: beige;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 200px;
-  min-height: 200vh;
 }
 .card {
   text-align: center;
