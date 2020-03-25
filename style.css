@@ -15,7 +15,7 @@ header {
   margin: 0;
   padding: 0;
   font-family:"Omnium Wide";
-  height: 200vh;
+  height: 200px;
 
 }
 body {
@@ -37,13 +37,13 @@ h1, h2, h3 {
   max-width: 1200px;
   margin: 0 auto;
   background: rgba(255, 255, 255, .4);
-  min-height: 150vh;
+  min-height: 150px;
   background: url(Images/DSC_0218.JPG);
   background-repeat: no-repeat;
   background-position: -200px;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 200vh;
+  min-height: 200px;
   rotate: 180;
 
 }
