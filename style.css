@@ -63,7 +63,7 @@ main {
   .wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    background: image(DSC_0218.JPG);
+    background: url(Images/DSC_0218.JPG);
   }
   header,
   footer {
