@@ -33,8 +33,11 @@ h1, h2, h3 {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
-  background: no-repeat url(Images/DSC_0218.JPG);
+  background: rgba(255, 255, 255, .4);
+  min-height: 150vh;
+  background: url(Images/DSC_0218.JPG);
   background-repeat: no-repeat;
+  background-position: -200px;
   background-size: cover;
   background-attachment: fixed;
   min-height: 200vh;
