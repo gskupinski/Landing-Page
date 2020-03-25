@@ -27,6 +27,9 @@ body {
 }
 h1, h2, h3 {
   font-family: "Bebas Neue", serif;
+  text-align: center;
+  background: blanchedalmond;
+  padding: 16px;
 }
 
 .wrapper {
