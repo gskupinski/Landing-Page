@@ -2,7 +2,13 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: "Aktiv Grotesk Ex", Arial, Helvetica, sans-serif;
   color: #44464a;
+  background: url(Images/DSC_0218.JPG);
+  background-repeat: no-repeat;
+  background-position: -200px;
+  background-size: cover;
+  background-attachment: fixed;
 }
 * {
   box-sizing: inherit;
