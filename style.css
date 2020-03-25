@@ -23,7 +23,17 @@ header {
   padding: 0;
   font-family:"Omnium Wide";
   height: 200px;
+  background: blanchedalmond;
+  padding: 16px;
 
+}
+footer {
+  margin: 0;
+  padding: 0;
+  font-family:"Omnium Wide";
+  height: 200px;
+  background: blanchedalmond;
+  padding: 16px;
 }
  
 h1, h2, h3 {
