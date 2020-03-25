@@ -40,10 +40,7 @@ min-height: 200vh;
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
-   background: beige;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 200px;
+  
 }
 .card {
   text-align: center;
