@@ -8,15 +8,7 @@ html, body {
 * {
   box-sizing: inherit;
 }
-img {
-  background: url(Images/DSC_0218.JPG);
-  background-repeat: no-repeat;
-background-size: cover;
-background-position: 200px;
-min-height: 200vh;
-width: 100%;
-  height: auto;
-}
+
 * {
   box-sizing: border-box;
 }
@@ -39,6 +31,8 @@ h1, h2, h3 {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
+  background: no-repeat url(Images/DSC_0218.JPG);
+  
 
 }
 .card {
@@ -80,9 +74,6 @@ main {
     grid-column-start: 2;
     grid-column-end: 4;
   }
-  .walkway {
-    display: grid;
-    grid-template-columns: 1fr,1fr, 1fr, 1fr;
-}
+
 
 }
