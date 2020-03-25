@@ -6,7 +6,7 @@ body {
   color: #44464a;
   background: url(Images/DSC_0218.JPG);
   background-repeat: no-repeat;
-  background-position: -200px;
+  background-position: center;
   background-size: cover;
   background-attachment: fixed;
   min-height: 200vh;
@@ -36,7 +36,8 @@ h1, h2, h3 {
 .wrapper {
   text-align: center;
   text-decoration-color: beige;
-  max-width: 600px;
+  width: 95%;
+  max-width: 1200px;
   margin: 0 auto;
   background: rgba(255, 255, 255, .4);
   min-height: 150px;
