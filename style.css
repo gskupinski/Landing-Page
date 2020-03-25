@@ -28,10 +28,7 @@ body {
   background-position: -200px;
   background-size: cover;
   background-attachment: fixed;
-  rotate: 180deg;
-}
-img {
-  image-orientation: from-image;
+  
 }
 h1, h2, h3 {
   font-family: "Bebas Neue", serif;
