@@ -32,7 +32,11 @@ h1, h2, h3 {
   max-width: 1200px;
   margin: 0 auto;
   background: no-repeat url(Images/DSC_0218.JPG);
-  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: -200px;
+  background-attachment: fixed;
+  min-height: 200vh;
 
 }
 .card {
