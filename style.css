@@ -31,8 +31,8 @@ h1, h2, h3 {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
-  background: url(Images/DSC_0218.JPG);
-
+  background: no-repeat url(Images/DSC_0218.JPG);
+  
 
 }
 .card {
@@ -63,6 +63,7 @@ main {
   .wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    background: image(DSC_0218.JPG);
   }
   header,
   footer {
@@ -74,6 +75,3 @@ main {
     grid-column-start: 2;
     grid-column-end: 4;
   }
-
-
-}
