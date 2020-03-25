@@ -81,5 +81,8 @@ main {
     grid-column-start: 2;
     grid-column-end: 4;
   }
+  .walkway {
+    width: 250px;
+}
 
 }
