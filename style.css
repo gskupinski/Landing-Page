@@ -19,18 +19,22 @@ body {
   box-sizing: border-box;
 }
 header {
-  margin: 0;
+  margin-top: 24px;
+  margin-bottom: 24px;
   padding: 0;
   font-family:"Omnium Wide";
-  height: 200px;
+  height: fit-content;
+  background: #ddb887;
   
 
 }
 footer {
-  margin: 0;
+  margin-top: 24px;
+  margin-bottom: 24px;
   padding: 0;
   font-family:"Omnium Wide";
-  height: 200px;
+  height: fit-content;
+  background: #ddb887;
   
 }
  
@@ -39,6 +43,7 @@ h1, h2, h3 {
   text-align: center;
   background: blanchedalmond;
   padding: 16px;
+  margin-bottom: 24;
 }
 
 .wrapper {
