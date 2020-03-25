@@ -22,10 +22,8 @@ header {
 body {
   margin: 0;
   padding: 0;
-  background:;
   font-family: "Aktiv Grotesk Ex", Arial, Helvetica, sans-serif;
   color: #44464a;
- 
 }
 h1, h2, h3 {
   font-family: "Bebas Neue", serif;
@@ -41,8 +39,8 @@ img {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
-   background: image rgba(255, 255, 255, 0.4)
-  background-repeat:no-repeat;
+   background: url(Images/DSC_0218.JPG);
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
