@@ -39,6 +39,7 @@ h1, h2, h3 {
   background-size: cover;
   background-attachment: fixed;
   min-height: 200vh;
+  rotate: 180;
 
 }
 .card {
